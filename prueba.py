@@ -24,3 +24,7 @@ def restar(num1, num2):
 
 def saludar():
     print("Holak")
+
+
+def multiplicar_dos(num):
+    2 * num
