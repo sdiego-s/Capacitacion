@@ -20,3 +20,7 @@ texto = "Hola mi gente de yutub"
 
 def restar(num1, num2):
     num1 - num2
+
+
+def saludar():
+    print("Holak")
