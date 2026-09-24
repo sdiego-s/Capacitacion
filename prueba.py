@@ -13,3 +13,6 @@ num2 = 2
 
 def sumar(num1, num2):
     num1 + num2
+
+
+texto = "Hola mi gente de yutub"
