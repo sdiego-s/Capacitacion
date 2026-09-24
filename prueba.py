@@ -16,3 +16,7 @@ def sumar(num1, num2):
 
 
 texto = "Hola mi gente de yutub"
+
+
+def restar(num1, num2):
+    num1 - num2
